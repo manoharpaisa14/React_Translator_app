@@ -12,7 +12,7 @@ const Translator = () => {
         const options = {
             method: 'POST',
             headers: {
-                'x-rapidapi-key': '0f9ef7a2dbmshce3a185136f834ap1234c6jsn400711f5aaf2',
+                'x-rapidapi-key': 'give your api here',
                 'x-rapidapi-host': 'text-translator2.p.rapidapi.com',
                 'Content-Type': 'application/x-www-form-urlencoded'
             },
